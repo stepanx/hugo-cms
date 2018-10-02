@@ -1,7 +1,7 @@
 ---
 title: Hlavní stránka všeho
 subtitle: 'Proč psát o něčem, čemu nerozumím. To je otázka.'
-image: /img/home-jumbotron.jpg
+image: /img/depositphotos_36883723_original.jpg
 blurb:
   heading: Proč blog?
   text: >-
