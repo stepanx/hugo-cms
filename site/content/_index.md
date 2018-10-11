@@ -3,7 +3,7 @@ title: Hlavní stránka všeho
 subtitle: 'Proč psát o něčem, čemu nerozumím. To je otázka.'
 image: /img/products-full-width.jpg
 blurb:
-  heading: Proč blog?
+  heading: Naše stránky
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -31,7 +31,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Naše značka
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
