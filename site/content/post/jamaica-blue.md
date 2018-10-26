@@ -1,6 +1,6 @@
 ---
 title: První článek. Plán cesty vytvořen
-date: 2017-01-04T15:04:10.000Z
+date: 2018-09-25T14:00:00.000Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
